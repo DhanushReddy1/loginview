@@ -1,0 +1,12 @@
+# Environments
+env/
+venv/
+.env/
+.venv/
+# Cache
+*.pyc
+__pycache__/**
+# db
+instance/*
+*.db
+*.sqlite
